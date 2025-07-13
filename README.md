@@ -1,2 +1,8 @@
 # Plants-vs-Zombie-Game
-Plants vs Zombie game with SFML
+A tower defense game called **Plants vs Zombie** game using the **SFML** library.
+To execute clone the repository and build the project using **make** and then run it by **./pvz.out**. Be sured to install SFML library beforehand.
+
+
+Preview of the game (Result of the project)
+![PVZ GIF](pvz_preview.gif)
+
